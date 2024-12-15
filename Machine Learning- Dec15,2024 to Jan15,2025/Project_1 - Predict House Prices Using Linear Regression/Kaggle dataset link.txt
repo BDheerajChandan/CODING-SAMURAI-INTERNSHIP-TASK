@@ -3,3 +3,5 @@ https://www.kaggle.com/datasets/vikrishnan/boston-house-prices
 https://www.kaggle.com/datasets/shree1992/housedata
 
 https://www.kaggle.com/datasets/prokshitha/home-value-insights
+
+https://www.kaggle.com/datasets/jenilhareshbhaighori/house-price-prediction
