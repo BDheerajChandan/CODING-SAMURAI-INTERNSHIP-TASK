@@ -1,1 +1,4 @@
 https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction
+
+
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
